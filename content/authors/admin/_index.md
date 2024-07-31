@@ -49,9 +49,12 @@ profiles:
     url: https://cv.hal.science/ocots
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Applications
+  - Differential homotopy
+  - Geometric Control
+  - Indirect shooting
+  - Numerical software
+  - Optimal Control
 
 education:
   - area: PhD Artificial Intelligence
@@ -144,11 +147,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: French
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
+  - name: Spanish
     percent: 25
 
 # Awards.
