@@ -43,6 +43,8 @@ profiles:
     url: https://orcid.org/0000-0002-4703-4369
   - icon: academicons/arxiv
     url: https://arxiv.org/search/?searchtype=author&query=Cots%2C+O
+  - icon: custom/hal
+    url: https://cv.hal.science/ocots
 
 interests:
   - Artificial Intelligence
