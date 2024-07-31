@@ -41,6 +41,8 @@ profiles:
     url: https://scholar.google.com/citations?user=JVn4K6UAAAAJ&hl=fr&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4703-4369
+  - icon: academicons/arxiv
+    url: https://arxiv.org/search/?searchtype=author&query=Cots%2C+O
 
 interests:
   - Artificial Intelligence
