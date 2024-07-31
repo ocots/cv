@@ -24,7 +24,9 @@ role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: IRIT
+  - name: Toulouse INP N7 (ENSEEIHT)
+    url: https://www.enseeiht.fr
+  - name: Institut de Recherche en Informatique de Toulouse (IRIT)
     url: https://www.irit.fr
 
 # Social network links
